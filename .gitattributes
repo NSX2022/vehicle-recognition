@@ -1,2 +1,0 @@
-app/classifier_weights.pth filter=lfs diff=lfs merge=lfs -text
-app/main.py filter=lfs diff=lfs merge=lfs -text
